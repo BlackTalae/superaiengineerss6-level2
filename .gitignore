@@ -1,0 +1,30 @@
+# Local runtimes and dependency installs
+.asr-packages/
+.venv*/
+__pycache__/
+*.py[cod]
+
+# Local competition data and generated work directories
+individual-test-thai-call-center-asr/
+work/
+.sixth/
+
+# Archived experiments and obsolete environments
+Archive/
+
+# Generated logs and checkpoints
+*.log
+*.checkpoint.csv
+asr_stdout.log
+asr_stderr.log
+
+# Keep only current ASR output artifacts
+outputs/*
+!outputs/large_v3_all_variants_with_confidence.csv
+!outputs/submission_medium_grouped_original.csv
+!outputs/submission_large_v3_grouped.csv
+!outputs/submission_large_v3_grouped_medoid.csv
+!outputs/submission_large_v3_grouped_contextual.csv
+!outputs/submission_large_v3_grouped_contextual_medoid.csv
+!outputs/submission_large_v3_contextual_au_only.csv
+!outputs/submission_large_v3_au_quality_ratio_09.csv
