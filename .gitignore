@@ -1,0 +1,23 @@
+# Local data and generated artifacts
+individual-test-thai-call-center-asr/
+work/
+Archive/
+.sixth/
+
+# Local Python environments and downloaded packages/models
+.venv*/
+.asr-packages/
+__pycache__/
+*.py[cod]
+
+# Outputs are generated; keep only the current best submission.
+outputs/*
+!outputs/
+!outputs/submission_large_v3_au_quality_ratio_09.csv
+
+# Notebook runtime noise
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
