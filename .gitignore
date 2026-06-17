@@ -1,23 +1,19 @@
-# Local data and generated artifacts
-individual-test-thai-call-center-asr/
-work/
-Archive/
-.sixth/
-
-# Local Python environments and downloaded packages/models
-.venv*/
-.asr-packages/
+.hf_cache/
+.venv/
+.venv_ocr/
 __pycache__/
-*.py[cod]
-
-# Outputs are generated; keep only the current best submission.
-outputs/*
-!outputs/
-!outputs/submission_large_v3_au_quality_ratio_09.csv
-
-# Notebook runtime noise
+*.pyc
+*.pyo
+.pytest_cache/
 .ipynb_checkpoints/
 
-# OS/editor noise
-.DS_Store
-Thumbs.db
+# Local model/cache outputs
+models/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Keep final pipeline artifacts explicit; ignore throwaway logs.
+*.log

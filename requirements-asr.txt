@@ -1,5 +1,0 @@
-faster-whisper==1.2.1
-pandas
-tqdm
-nvidia-cublas-cu12
-nvidia-cudnn-cu12

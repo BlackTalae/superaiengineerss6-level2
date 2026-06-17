@@ -1,0 +1,421 @@
+id,answer,source
+1,2,base
+10,36,base
+100,2,base
+101,240,base
+103,266,base
+109,17,market_lcm
+110,$6\sqrt{3}$,base
+111,540,base
+115,1,base
+116,$108_{สิบสอง}$,base
+117,1,base
+118,123 องศา,base
+119,14 ตัว,base
+120,5,base
+121,2,base
+122,2,base
+123,20 ตารางเซนติเมตร,base
+126,$\frac{3}{4}$,base
+128,2 ค่า,base
+13,139,base
+130,8,base
+131,2,base
+132,36,base
+134,2,base
+135,2,base
+136,6 ตารางหน่วย,base
+137,80 องศา,base
+140,2,base
+141,2,base
+142,36,base
+143,80 องศา,base
+144,9,base
+146,2,base
+147,15 หน่วย,base
+148,76,base
+149,15 หน่วย,base
+150,2,base
+151,2,base
+153,1,base
+156,2,base
+157,8,base
+158,243.5,base
+16,100 degrees,base
+161,83,travel_time
+163,9,base
+166,3 เซนติเมตร,base
+167,2,base
+168,3775,base
+170,104 องศา,base
+171,20 ตารางเซนติเมตร,base
+172,17 กล่อง,base
+175,3775,base
+176,12 จำนวน,base
+177,2311,base
+178,2,base
+18,2,base
+180,2,base
+181,2,base
+186,8 จำนวน,base
+188,8,base
+189,2,base
+19,-3,base
+190,2.5 หน่วย,base
+192,240,base
+193,17,base
+195,$\frac{3\sqrt{3}}{2}$,base
+198,64 หน่วย,base
+201,2,base
+203,1,base
+204,$6\sqrt{3}$,base
+208,2,base
+210,6 ตารางหน่วย,base
+211,20 วิธี,base
+212,20 วิธี,base
+213,$6\sqrt{3}$,base
+214,76,base
+215,8 จำนวน,base
+216,48 ตารางหน่วย,base
+217,2,base
+219,$6\sqrt{3}$,base
+22,20 ตารางเซนติเมตร,base
+220,1,base
+221,76,base
+222,8 จำนวน,base
+224,$6\sqrt{3}$,base
+225,2,base
+229,2,base
+23,2,base
+230,$6\sqrt{3}$,base
+231,2,base
+232,777,base
+233,20 ตารางเซนติเมตร,base
+234,15 หน่วย,base
+236,2,base
+238,370,base
+24,1,base
+241,$7 + 3\sqrt{5}$,base
+242,12,banknotes
+243,2,base
+244,20 ตารางเซนติเมตร,base
+245,2,base
+246,2,base
+248,64 หน่วย,base
+251,2,base
+254,2,base
+255,2,base
+259,20 ตารางเซนติเมตร,base
+261,80 องศา,base
+263,2,base
+264,192,base
+265,593,base
+266,76,base
+267,18,base
+268,2,base
+269,270 จำนวน,base
+27,2571,base
+270,36,base
+272,1,base
+277,2,base
+284,20 เท่า,base
+285,2,base
+286,7.5,base
+289,2,base
+290,"x=70,y=24",base
+292,144 จำนวน,base
+295,2,base
+296,2,base
+3,76,base
+30,8 จำนวน,base
+300,2,base
+301,6 ตารางหน่วย,base
+302,3,base
+305,2,base
+306,2,base
+308,20 ตารางเซนติเมตร,base
+310,2,base
+311,76,base
+312,2,base
+313,2,base
+318,282,base
+319,2,base
+32,2,base
+320,20 เท่า,base
+322,2,base
+324,l(l+k),base
+326,2,base
+327,189 เซนติเมตร,base
+328,25 หน่วย,base
+33,2,base
+332,2 ค่า,base
+335,14 ตู้,base
+336,2,base
+337,2,base
+34,6 ตารางหน่วย,base
+340,2311,base
+342,1,base
+344,2,base
+346,243.5,base
+347,14 ตัว,base
+35,1,base
+351,139,base
+352,15 หน่วย,base
+353,2,base
+356,2311,base
+357,2,base
+362,11,base
+363,666,base
+365,2,base
+366,2,base
+369,8,base
+37,2,base
+370,15 หน่วย,base
+374,2,base
+375,40 องศา,base
+376,2,base
+379,5,base
+380,2,base
+381,350 ตารางหน่วย,base
+382,$6\sqrt{3}$,base
+383,2,base
+388,14 ตู้,base
+389,2,base
+39,243.5,base
+391,15,base
+392,2,base
+393,15 หน่วย,base
+396,2,base
+397,17,base
+398,2,base
+399,"(1) (0,-4),(0,-8),(4,-4)  (2) (-2,-2),(-6,-2),(-2,-6)",base
+4,36,base
+400,3775,base
+401,15 หน่วย,base
+404,$6\sqrt{3}$,base
+405,2,base
+406,$6\sqrt{3}$,base
+409,338,base
+41,$7 + 3\sqrt{5}$,base
+410,"x=70,y=24",base
+411,1106,base
+413,20 คู่อันดับ,base
+414,2,base
+416,12 จำนวน,base
+417,36,base
+418,14 ตัว,base
+419,2,base
+42,2,base
+420,$48\pi$ ตารางหน่วย,base
+421,384,base
+422,2,base
+423,8 จำนวน,base
+424,2.5 หน่วย,base
+426,72 ตารางหน่วย,base
+427,7747,base
+428,80 องศา,base
+429,2,base
+43,2,base
+430,243.5,base
+431,51 นาที,base
+432,2,base
+433,2,base
+434,14 ตู้,base
+437,80 องศา,base
+44,2,base
+440,240,base
+441,2,base
+442,2 ค่า,base
+443,282,base
+445,350 ตารางหน่วย,base
+446,2,base
+447,2,base
+450,$6\sqrt{3}$,base
+451,2,base
+453,2 ค่า,base
+456,5,base
+457,2,base
+458,1560,base
+459,1,base
+460,2,base
+461,5,base
+462,20 ตารางเซนติเมตร,base
+463,2,base
+466,3.75 เซนติเมตร,base
+467,20 ตารางเซนติเมตร,base
+469,1,base
+470,76,base
+472,2,base
+473,6696,base
+475,16 คู่อันดับ,base
+476,1,base
+477,266,base
+478,2,base
+479,266,base
+48,x=87,base
+480,184,page_digits
+482,A เดินทางได้ 7 ชั่วโมง 15 นาที,base
+484,2,base
+485,44,base
+486,2,base
+487,36,base
+488,16 คู่อันดับ,base
+489,2,base
+493,"x=70,y=24",base
+494,31,base
+495,2,base
+496,6,base
+497,80 ตารางหน่วย,base
+498,3,base
+5,2,base
+504,36 องศา,base
+506,2,base
+507,2,base
+51,2,base
+510,2394,sum_divisors
+511,15 หน่วย,base
+512,4913,base
+516,36 เซนติเมตร,base
+517,2,base
+518,$62\sqrt{7}$,base
+519,1366,not_factor_3_5
+520,2,base
+521,2,base
+524,76,base
+526,18,base
+529,17,base
+530,5,base
+531,$y=x^2+\frac{30}{x}$,base
+532,2,base
+533,$\frac{17}{36}$,base
+535,76,base
+536,2,base
+538,1,base
+539,1004,base
+540,$62\sqrt{7}$,base
+541,36,base
+542,2,base
+543,1,base
+546,2,base
+547,6 ตารางหน่วย,base
+549,2,base
+55,$3\sqrt{10}$ หน่วย,base
+550,6,base
+553,2,base
+554,2,base
+556,203,base
+558,76,base
+56,4,base
+560,48 ตารางหน่วย,base
+561,36,base
+562,31,base
+563,2,base
+567,76,base
+569,2,base
+57,2,base
+570,2,base
+573,2,base
+574,2,base
+575,44,base
+576,2,base
+577,2,base
+579,31,base
+58,20 ตารางเซนติเมตร,base
+580,2,base
+581,2,base
+582,140 องศา,base
+585,44,base
+587,25 หน่วย,base
+588,2,base
+593,1,base
+595,777,base
+597,2,base
+599,$\left| a^2 - 10 \right|$,base
+6,2,base
+60,17,base
+600,5,base
+601,2,base
+602,17,base
+604,8,base
+605,3 เซนติเมตร,base
+606,2,base
+610,1027,page_digits
+611,203,base
+612,64 หน่วย,base
+614,2,base
+617,4,base
+618,2,base
+619,2,base
+62,31,base
+620,2,base
+621,2,base
+622,2,base
+623,31,base
+626,2,base
+63,2,base
+635,51 นาที,base
+636,x=87,base
+638,20 ตารางเซนติเมตร,base
+639,36,base
+64,2,base
+640,64 หน่วย,base
+641,76,base
+642,139,base
+643,282,base
+644,2,base
+645,2,base
+647,2,base
+65,2,base
+651,1,base
+652,2,base
+653,2,base
+654,36,base
+656,80 องศา,base
+657,$5\frac{1}{6}$,base
+658,2,base
+660,0,base
+662,8 จำนวน,base
+663,2,base
+664,2,base
+665,$108_{สิบสอง}$,base
+666,20 ตารางเซนติเมตร,base
+668,20 ตารางเซนติเมตร,base
+672,2,base
+674,532,base
+675,4913,base
+677,3775,base
+68,2,base
+680,2,base
+681,60,sum_divisors
+683,2,base
+685,2,base
+686,$7 + 3\sqrt{5}$,base
+688,5,base
+689,2,base
+690,2,base
+691,2,base
+695,15 หน่วย,base
+697,2,base
+7,119,base
+70,2013,base
+71,4,base
+72,x=87,base
+73,9,base
+74,2,base
+76,41.60,base
+77,12 จำนวน,base
+78,11,base
+79,266,base
+83,266,base
+84,4,base
+85,2,base
+86,2,base
+88,200,base
+89,17,base
+9,66 องศา,base
+90,2520,lcm
+92,2,base
+93,80 องศา,base
+94,2,base
+96,2,base
+99,$\frac{3}{4}$,base
